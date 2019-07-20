@@ -4,6 +4,6 @@ temp=list(temp)
 x=set(x)
 x=list(x)
 if(len(x)==len(temp)):
-  print("yes")
+  print("Yes")
 else:
-  print("no")
+  print("No")
