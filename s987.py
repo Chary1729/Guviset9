@@ -7,4 +7,3 @@ for i in range(1,ma+1):
   if(x%i==0 and y%i==0):
     myl.append(i)
 print(max(myl))
-print(myl)
